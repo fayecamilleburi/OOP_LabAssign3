@@ -22,12 +22,3 @@ Class Diagram:
 Sample output:
 
 ![sample-output](https://github.com/fayecamilleburi/OOP_LabAssign3/assets/152823567/4f4c6cf0-fc53-43f8-9de5-b65831340461)
-
-
-
-
-Payment order details if ShopeePay
-
-Discount rate is 0.10
-
-Payment amount is 2700.0
